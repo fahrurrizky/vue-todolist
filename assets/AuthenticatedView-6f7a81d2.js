@@ -1,1 +1,0 @@
-import{_ as t,o as a,c as r,a as s,t as c}from"./index-34ab3d52.js";const n={};function o(e,i){return a(),r("div",null,[s("h1",null,c(e.$route.params.id||"User")+" Detail",1)])}const _=t(n,[["render",o]]);export{_ as default};
